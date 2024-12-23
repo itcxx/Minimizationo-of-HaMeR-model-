@@ -90,3 +90,13 @@ python eval.py --dataset 'NEWDAYS-TEST-ALL'
 - If any issues arise with the configuration, please refer to the original project's documentation[To](https://github.com/geopavlakos/hamer?tab=readme-ov-file).
 
 ## Result Show
+<p align="center">
+  <img src="static/image/Pruning_weight.png" alt="teaser">
+    <p align="left">The figure above shows the weight distribution of certain parts of the model backbone and the weight distribution after pruning. Due to the large number of blocks in the model, it is not possible to display all of them, so only a subset is shown.
+    </p>
+</p>
+<p align="center">
+  <img src="static/image/Pruning_result.png" alt="teaser">
+    <p align="left">The figure above presents a comparison of the model's performance and parameters before and after pruning.
+    </p>
+</p>
