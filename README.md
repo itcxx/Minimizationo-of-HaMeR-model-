@@ -108,3 +108,6 @@ python eval.py --dataset 'NEWDAYS-TEST-ALL'
 
 <B> After Quantization:</B>
 * Model size drastically reduced from 2563MB to 3.63MB.
+
+## Reference
+1. "Reconstructing Hands in 3D with Transformers" Pavlakos, Georgios and Shan, Dandan and Radosavovic, Ilija and Kanazawa, Angjoo and Fouhey, David and Malik, Jitendra ,CVPR 2024
