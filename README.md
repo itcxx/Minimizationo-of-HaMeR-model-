@@ -100,3 +100,11 @@ python eval.py --dataset 'NEWDAYS-TEST-ALL'
     <p align="left">The figure above presents a comparison of the model's performance and parameters before and after pruning.
     </p>
 </p>
+
+<B>After Pruning:</B>
+
+* Inference latency reduced by ~0.013 seconds.
+* Slight performance drops observed, with metrics decreasing by up to 0.0376 (kpAvg_pck_0.05).
+
+<B> After Quantization:</B>
+* Model size drastically reduced from 2563MB to 3.63MB.
