@@ -8,9 +8,7 @@ authors:
 affiliations:
     Dankook Uni
 paper: https://arxiv.org/pdf/2312.05251
-video: None
 code: https://github.com/itcxx/Minimizationo-of-HaMeR-model-
-data: None
 ---
 <p align="center">
   <img src="static/image/paper_model.png" alt="teaser">
